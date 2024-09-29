@@ -53,8 +53,8 @@ Welcome to my GitHub profile! I'm a passionate Software  Developer with a love f
 
 ## 🏆 Achievements
 
-- GeeksForGeeks Institute Rank Topper (2021-2025), 570 problems solved , 1785 Rating
-- Ranked in Top 16% in Leetcode Globally
+- GeeksForGeeks Institute Rank Topper (2021-2025), 570 problems solved , 1785 Rating.
+- Ranked in Top 16% in Leetcode Globally.
 - Achieved top 1% ranking in the cloud computing NPTEL with a score of 87% .
 
 
