@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Software  Developer with a love f
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![Competitive Programming](https://img.shields.io/badge/-Competitive%20Programming-2D2D2D?style=flat&logo=codeforces&logoColor=white)
 
-  ## 💼 Work Experience
+ ## 💼 Work Experience
 
 - **Qoptars** - Full Stack Developer (Sept 2024 - Present)  
   Developed a website for AP Govt. to track the recent real-time flood related data of city Vijayawad,Andhra Pradesh.
