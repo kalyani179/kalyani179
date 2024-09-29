@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Software  Developer with a love f
  ## 💼 Work Experience
 
 - **Qoptars** - Full Stack Developer (Sept 2024 - Present)  
-  Developed a website for AP Govt. to track the recent real-time flood related data of city Vijayawada, Andhra Pradesh.
+  Developed a website for AP Govt. to track the recent real-time flood related data of city Vijayawada, Andhra Pradesh & Reduced Load time of the images by 50% by using caching techniques.
   
 - **Infosys** (June 2024 - Aug 2024)  
   Collaborated using the Pega tool.
@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a passionate Software  Developer with a love f
 ## 🏆 Achievements
 
 - GeeksForGeeks Institute Rank Topper (2021-2025), 570 problems solved , 1785 Rating.
-- Ranked in Top 16% in Leetcode Globally.
+- Ranked in Top 16% in Leetcode Globally & Ranked in Top 9% on GeekForGeeks.
 - Achieved Top 1% ranking in the cloud computing NPTEL with a score of 87% .
 
 
@@ -62,6 +62,7 @@ Welcome to my GitHub profile! I'm a passionate Software  Developer with a love f
 - [LinkedIn](https://www.linkedin.com/in/kalyani-dantuluri/)
 - [Portfolio](https://kalyani179.github.io/Portfolio/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/kalyani179/)
+- [Leetcode](https://leetcode.com/u/kalyani971/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kalyani179&theme=dark&hide_border=false)<br/>
