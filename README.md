@@ -62,7 +62,6 @@ Welcome to my GitHub profile! I'm a passionate Software  Developer with a love f
 - [LinkedIn](https://www.linkedin.com/in/kalyani-dantuluri/)
 - [Portfolio](https://kalyani179.github.io/Portfolio/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/kalyani179/)
-- [Leetcode](https://leetcode.com/u/kalyani971/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kalyani179&theme=dark&hide_border=false)<br/>
