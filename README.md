@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Software  Developer with a love f
  ## 💼 Work Experience
 
 - **Qoptars** - Full Stack Developer (Sept 2024 - Present)  
-  Developed a website for AP Govt. to track the recent real-time flood related data of the city Vijayawada, Andhra Pradesh & Reduced Load time of the images by 50% by using caching techniques.
+  Developed a website for AP Govt. to track the recent real-time flood related data of the city Vijayawada, Andhra Pradesh & Reduced Load time by 50% by using caching techniques.
   
 - **Infosys** (June 2024 - Aug 2024)  
   Collaborated using the Pega tool.
