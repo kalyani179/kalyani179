@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm a passionate Software  Developer with a love f
 
 # 📫 Let's Connect! 
 - [LinkedIn](https://www.linkedin.com/in/kalyani-dantuluri/)
-- [Portfolio](https://kalyani179.github.io/portfolio/))
+- [Portfolio](https://kalyani179.github.io/portfolio/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/kalyani179/)
 - [Leetcode](https://leetcode.com/u/kalyani971/)
 
